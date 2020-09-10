@@ -41,4 +41,4 @@ Copy all the text that occur to `supervisord.conf`, then run
 
 ### Result Local
 
-![Image 01](https://raw.github.com/irchanbani/prefect-demo/main/docs/image-01-local.jpg)
+![Image 01](docs/image-01-local.png)
